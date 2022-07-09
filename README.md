@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joetlobb
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning In-depth CSS, Git and Node.js
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate with you.
 - 📫 Reach me via line: joetlobb
 
